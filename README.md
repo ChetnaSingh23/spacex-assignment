@@ -77,3 +77,8 @@ Your solution is expected to render the following:
 
 [spacex-api]: https://docs.spacexdata.com/?version=latest#fce450d6-e064-499a-b88d-34cc22991bcc
 [github-collaborators]: https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository
+
+## Solution
+![Screenshot 2021-12-21 at 4 26 17 PM](https://user-images.githubusercontent.com/24791556/146918862-92e7e213-bc32-4c51-af25-4d4f63313e97.png)
+![Screenshot 2021-12-21 at 4 26 26 PM](https://user-images.githubusercontent.com/24791556/146918871-c8637ffa-f73f-40a9-9f10-402ed52f48e8.png)
+
